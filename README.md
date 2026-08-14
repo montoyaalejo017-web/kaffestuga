@@ -1,4 +1,5 @@
 # ☕ Kaffestuga
+![Kaffestuga](./docs/PORTADA.png)
 
 Landing page responsive desarrollada para Kaffestuga, un restaurante y cafetería ubicado en un entorno natural.
 
