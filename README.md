@@ -30,7 +30,6 @@ El proyecto está enfocado en ofrecer una experiencia visual sencilla, adaptable
 
 ## 📁 Estructura del proyecto
 
-```text
 Kaffestuga/
 ├── css/
 │   └── style.css
